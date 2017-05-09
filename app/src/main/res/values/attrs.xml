@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <!-- 仿ios开关按钮 -->
     <declare-styleable name="SwitchView">
         <attr name="hasShadow" format="boolean" />
         <attr name="primaryColor" format="color" />
         <attr name="primaryColorDark" format="color" />
         <attr name="isOpened" format="boolean" />
+    </declare-styleable>
+
+    <!-- 仿守望屁股登录进度的进度条 -->
+    <declare-styleable name="HiveProgressView">
+        <attr format="integer" name="hive_animDuration" />
+        <attr format="integer" name="hive_maxAlpha" />
+        <attr format="color" name="hive_color" />
+        <attr format="boolean" name="hive_rainbow" />
     </declare-styleable>
 
 

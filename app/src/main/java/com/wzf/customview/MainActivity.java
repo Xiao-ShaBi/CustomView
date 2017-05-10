@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(this, ToolsActivity.class));
                 break;
             case R.id.custom_progress:
-                startActivity(new Intent(this, ProgressActivity.class));
+                startActivity(new  Intent(this, ProgressActivity.class));
                 break;
         }
     }

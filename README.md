@@ -5,4 +5,6 @@
 * SwitchView 仿照ios的开关
 ## ProgressBar
 * HiveProgressView 仿照守望先锋进入的进度条
+## viewgroup
+* GridRadioGroup 可以使用gridview布局的radiogroup
 

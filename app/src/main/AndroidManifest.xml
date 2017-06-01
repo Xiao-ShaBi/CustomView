@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".simpledemo.ToolsActivity" />
-        <activity android:name=".simpledemo.ProgressActivity"></activity>
+        <activity android:name=".simpledemo.ProgressActivity" />
+        <activity android:name=".simpledemo.GridActivity"></activity>
     </application>
 
 </manifest>

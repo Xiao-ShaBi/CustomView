@@ -11,10 +11,10 @@
 
     <!-- 仿守望屁股登录进度的进度条 -->
     <declare-styleable name="HiveProgressView">
-        <attr format="integer" name="hive_animDuration" />
-        <attr format="integer" name="hive_maxAlpha" />
-        <attr format="color" name="hive_color" />
-        <attr format="boolean" name="hive_rainbow" />
+        <attr name="hive_animDuration" format="integer" />
+        <attr name="hive_maxAlpha" format="integer" />
+        <attr name="hive_color" format="color" />
+        <attr name="hive_rainbow" format="boolean" />
     </declare-styleable>
 
 
